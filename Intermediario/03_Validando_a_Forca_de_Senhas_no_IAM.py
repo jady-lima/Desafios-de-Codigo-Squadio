@@ -25,7 +25,7 @@ def verificar_forca_senha(senha):
     tem_numero = True
   
   # Verificando se a senha contém caracteres especiais
-  if (re.search(r'[@*/!#$%+-_¨&()`\´^~:;.,|{}=?\'\"\[\]]', senha)):
+  if (re.search(r'[@*/!#$%+-_¨&()`^~:;.,|{}=?[]', senha)):
     tem_caractere_especial = True
 
   # Verificando se a senha contém sequências comuns
