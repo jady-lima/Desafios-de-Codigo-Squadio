@@ -1,7 +1,7 @@
-# Desafios de código Squadio - Intermediário
- Desafio de código Squadio - Intermediário
+# Desafios de código Squadio - Intermediário I
+ Desafio de código Squadio - Intermediário I
 
-Nesse repositório são apresentados os exercicios executados no modulo de Desafios de Código Squadio - Intermediário do BootCamp da Dio de Python Data Analytics.
+Nesse repositório são apresentados os exercicios executados no modulo de Desafios de Código Squadio - Intermediário I do BootCamp da Dio de Python Data Analytics.
 
 Há então 3 diferentes desafios, sendo eles:
 * # Desafio 1: O Grande Depósito: Solucionando Problemas Bancários
